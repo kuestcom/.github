@@ -11,5 +11,5 @@
 <p align="center">
   <a href="https://kuest.com">kuest.com</a> ·
   <a href="https://demo.kuest.com">Live Demo</a> ·
-  <a href="https://docs.kuest.com">Owner Docs</a> ·
+  <a href="https://docs.kuest.com">Owner Docs</a>
 </p>
